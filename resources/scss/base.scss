@@ -1,0 +1,17 @@
+body {
+  font-family: OpenSans-Regular, Arial, sans-serif;
+  font-size: 15px;
+}
+
+.box {
+  border: 1px solid #c5bfbf;
+  box-sizing: border-box;
+}
+
+.no-scroll {
+ overflow: hidden;
+}
+
+.react-grid-item.react-grid-placeholder {
+  background-color: transparent;
+}

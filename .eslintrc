@@ -1,0 +1,14 @@
+{
+  "root": true,
+  "parser": "babel-eslint",
+  "plugins": ["prettier", "react", "@typescript-eslint/eslint-plugin"],
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "singleQuote": true,
+        "tabWidth": 4
+      }
+    ]
+  }
+}
