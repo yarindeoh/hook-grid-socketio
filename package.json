@@ -1,7 +1,7 @@
 {
-  "name": "rd-next-generation",
+  "name": "hook-grid-socketio",
   "version": "1.0.0",
-  "description": "fe radware new generation",
+  "description": "hook-grid-socketio",
   "main": "src/index.tsx",
   "author": "yarindeoh",
   "license": "MIT",
