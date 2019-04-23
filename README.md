@@ -1,6 +1,8 @@
 # hook-grid-socketio
 Responsive grid of chart widgets app that is getting updated by local socket io server in nodejs.
 
+![grid](https://user-images.githubusercontent.com/38718795/56591380-4f17e300-65f1-11e9-8b08-fbe1a0933224.PNG)
+
 ## Technical Stack 
 - tyepscript
 - react 16+ hooks
