@@ -15,4 +15,5 @@ Responsive grid of chart widgets app that is getting updated by local socket io 
 - nodemon
 - sass
 - recharts (chart libary based on react and d3)
+- react-grid-layout
 - eslint
